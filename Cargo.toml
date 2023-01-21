@@ -7,3 +7,4 @@ default-run = "c04p01_singly_linked_list"
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
 [dependencies]
+rand = "*"
